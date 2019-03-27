@@ -2,13 +2,13 @@ EESchema Schematic File Version 4
 LIBS:linemonitor-cache
 EELAYER 26 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr USLetter 11000 8500
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Line Monitor"
+Date "2019-03-27"
+Rev "1"
+Comp "Yannick Gagne"
 Comment1 ""
 Comment2 ""
 Comment3 ""
